@@ -1,3 +1,10 @@
-Simple Contact Form
+## Simple Contact Form
 
-With HTML, CSS and PHP
+#### Technologies Used
+* HTML5
+* CSS3
+* PHP
+
+### License : MIT
+
+### You are welcome to update this source code if it contain any miss mathces.
