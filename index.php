@@ -29,7 +29,7 @@
 </body>
 </html>
 <?php
-    // ---To send and email without interface--
+    // ---To send an email without interface---
     // $to_mail = "thriplebeecontact@gmail.com";
     // $subject = "Simple Email";
     // $body = "This is a sample message body!";
@@ -42,4 +42,3 @@
     //     echo "Failed!";
     // }
 ?>
-
