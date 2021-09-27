@@ -19,8 +19,8 @@
 
         if (mail($recipient, $subject, $email_content, $email_headers)) {
             header("Location: ../index.php?mailsend=succeeded");
-        } else {
+        }
+        else {
             header("Location: ../index.php?mailsend=failed");
         }
-
     }
